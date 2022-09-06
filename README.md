@@ -1,19 +1,19 @@
-# GitHub Profile Achievements 🏆
 # Conquistas do perfil do GitHub 🏆
+
+GitHub Profile Achievements 🏆
 
 Uma coleção listando todas as conquistas disponíveis no perfil do GitHub.
 
-Após o lançamento do primeiro Helicóptero de Marte, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) a nova seção Conquistas:
+Após o lançamento do primeiro Helicóptero de Marte, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [anunciou](https://github.blog/2021-04-19-open-source-goes-to-mars/) a nova seção Conquistas:
 
-> Também estamos aproveitando esta oportunidade para introduzir uma nova seção de Conquistas no perfil do GitHub. No momento, as conquistas incluem o distintivo da Missão de Helicóptero Mars 2020, o [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) distintivo e um distintivo para patrocinar o trabalho de código aberto via [GitHub Sponsors](https://github.com/sponsors).
+> Também estamos aproveitando esta oportunidade para introduzir uma nova seção de Conquistas no perfil do GitHub. No momento, as conquistas incluem o distintivo da Missão de Helicóptero Mars 2020, o [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) distintivo e um distintivo para patrocinar o trabalho de código aberto via [Patrocinadores do GitHub](https://github.com/sponsors).
 
 Este repositório tenta listá-los todos.
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), mas sem critérios específicos. Se você vir algo não listado aqui ou estiver incorreto, abra uma issue :)
+**09-06-2022:** GitHub [anunciou mais conquistas](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), mas sem critérios específicos. Se você vir algo não listado aqui ou estiver incorreto, abra uma issue :)
 
-Não gosta das Conquistas? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) e como desativá-los. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
+Não gosta das Conquistas? [Aqui](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) e como desativá-los. [Link direto para a configuração para sua conveniência](https://github.com/settings/profile#profile-settings-heading).
 
-## Achievements
 ## Conquistas
 
 | Título | Distintivo | Ganhos? | Ganho por |
@@ -59,64 +59,60 @@ Ainda há uma seção que inclui detalhes sobre como os emblemas foram/são conc
 
 A menos que haja uma lista oficial novamente, é isso.
 
-## Details
 ## Detalhes
 
-### Specifics on how to achieve
 ### Especificações sobre como alcançar
 
 Por enquanto, consulte o [discussões](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
 Para o melhor de nosso conhecimento:
 
-- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
+- [Cérebro da Galáxia](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
-### Tier labels
 ### Rótulos de nível
 
 Cada tier tem um rótulo associado que inclui uma cor.
 
-| Tier | Etiqueta | Amostra | Hex | Visual |
+| Tier | TAG | Amostra | Hex | Visual |
 | --- | --- | --- | --- | --- |
 Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
 Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
 Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
-### 100 % samples
+### Amostras
 
 [Aqui](/images/captured/complete) são capturas de tela de todas as conquistas 100% desbloqueadas, como visto na íntegra na caixa de diálogo, tanto no modo claro quanto no escuro.  
 Veja-os ao vivo, incluindo a animação que alguns têm, por exemplo aqui:
 
 | Título | Amostra |
 | --- | --- |
-Pair Extraordinaire | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-Quickdraw | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
-Starstruck | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
+Par Extraordinário | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+Desenho rápido | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
+Atordoado(a) | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
+Cérebro da Galáxia | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
 Pull Shark | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
 YOLO | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
-Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
-Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
+Contribuidor do Arctic Code Vault | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
+Patrocinador público | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
+Colaborador de Marte 2020 | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
 Você conhece um usuário com todas as conquistas ao mesmo tempo? Avise!
 
-### Variants
 ### Variantes
 
-[Aqui](/images/variants) são as variantes de emblemas, incluindo o [Octocat :octocat:](https://github.com/logos) based on [a configuração](https://github.com/settings/appearance#emoji-heading) para o [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
+[Aqui](/images/variants) são as variantes de emblemas, incluindo o [Octocat :octocat:](https://github.com/logos) baseado em [configuração](https://github.com/settings/appearance#emoji-heading) para o [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
 
-## Highlights
+## Destaques
 
-The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+A seção Destaques abaixo das Conquistas, incluindo os emblemas correspondentes, está atualmente [melhor documentado nos documentos oficiais do GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 ## Versões prévias
 
-### 2021-04-19 - 2022-06-09
+### 19-04-2021 - 09-06-2022
 
-De [comece com Ingenuidade em 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) até o [adições em 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), as três primeiras conquistas tinham designs e nomes ligeiramente diferentes. Em outras palavras, eles foram revisados ​​em 2022-06-09.
+O [comece com Ingenuidade em 19-04-2021](https://github.blog/2021-04-19-open-source-goes-to-mars/) até o [adições em 09-06-2022](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), as três primeiras conquistas tinham designs e nomes ligeiramente diferentes. Em outras palavras, eles foram revisados ​​em 09-06-2022.
 
 ```diff
 - Patrocinador do GitHub
